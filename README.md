@@ -216,45 +216,6 @@ raghav@neural-net:~$ ./jarvis.py --initialize
 [JARVIS]: Awaiting your command...
 ```
 
-## 🎮 **NEURAL PATTERN MINI-GAME**
-
-```python
-# Welcome to the Neural Pattern Recognition Game!
-# Can you decode the sequence?
-
-def neural_game():
-    pattern = "01001010 01000001 01010010 01010110 01001001 01010011"
-    decoded = binary_to_text(pattern)
-    return decoded  # Result: "JARVIS"
-
-# Your mission: Decode this neural signature
-mystery_code = "01010010 01000001 01000111 01001000 01000001 01010110"
-# Hint: It spells someone's name in binary! 🤖
-
-print("🎯 CHALLENGE: What does the mystery_code decode to?")
-print("🏆 REWARD: Unlock exclusive developer insights!")
-```
-
-```ascii
-╔══════════════════════════════════════════════╗
-║             🎮 NEURAL MAZE GAME              ║
-║                                              ║
-║  Help the data packet reach the destination! ║
-║                                              ║
-║  █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █            ║
-║  █ . . . █ . . . . . . . █ . . █            ║
-║  █ . █ . █ . █ █ █ . █ . █ . █ █            ║
-║  █ S █ . . . █ . . . █ . . . █ █            ║
-║  █ . █ █ █ . █ . █ . █ . █ █ . █            ║
-║  █ . . . . . . . █ . . . █ . . █            ║
-║  █ █ █ . █ █ █ █ █ . █ █ █ . █ █            ║
-║  █ . . . . . . . . . . . . . E █            ║
-║  █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █            ║
-║                                              ║
-║  S = Start | E = End | . = Path | █ = Wall   ║
-╚══════════════════════════════════════════════╝
-```
-
 ## 🎯 **CURRENT OBJECTIVES**
 
 ```yaml
