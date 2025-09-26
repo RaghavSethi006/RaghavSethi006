@@ -62,6 +62,10 @@ raghav@neural-net:~$ cat tech_stack.json
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🖥️ **GUI & APP DEVELOPMENT**
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ### ⚛️ **FRAMEWORK ARSENAL**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -70,6 +74,10 @@ raghav@neural-net:~$ cat tech_stack.json
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🖥️ **GUI & APP DEVELOPMENT**
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔧 **DEVELOPMENT UTILITIES**
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
@@ -169,6 +177,84 @@ generate_insight()
 
 ---
 
+## 🤖 **JARVIS AI INTERACTION PANEL**
+
+```bash
+raghav@neural-net:~$ ./jarvis.py --initialize
+```
+
+```ascii
+    ██╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗
+    ██║██╔══██╗██╔══██╗██║   ██║██║██╔════╝
+    ██║███████║██████╔╝██║   ██║██║███████╗
+██  ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║
+╚█████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║
+ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝
+
+[JARVIS]: Good day, Sir. All systems are operational.
+[JARVIS]: Neural networks running at optimal efficiency.
+[JARVIS]: How may I assist you today?
+
+> INITIATING SYSTEM SCAN...
+  ████████████████████████████████████████ 100%
+  
+[✓] Tkinter GUI frameworks: LOADED
+[✓] Streamlit applications: ACTIVE  
+[✓] Python neural cores: ONLINE
+[✓] Creative suites: SYNCHRONIZED
+[✓] Database connections: ESTABLISHED
+
+[JARVIS]: Sir, I've detected 847 commits this year. 
+          Shall I analyze your coding patterns?
+
+> Choose your interaction:
+  [1] 🎮 Play Neural Pattern Game
+  [2] 🔍 Analyze Repository Matrix  
+  [3] 💬 Chat with AI Assistant
+  [4] 🚀 Deploy New Project
+  
+[JARVIS]: Awaiting your command...
+```
+
+## 🎮 **NEURAL PATTERN MINI-GAME**
+
+```python
+# Welcome to the Neural Pattern Recognition Game!
+# Can you decode the sequence?
+
+def neural_game():
+    pattern = "01001010 01000001 01010010 01010110 01001001 01010011"
+    decoded = binary_to_text(pattern)
+    return decoded  # Result: "JARVIS"
+
+# Your mission: Decode this neural signature
+mystery_code = "01010010 01000001 01000111 01001000 01000001 01010110"
+# Hint: It spells someone's name in binary! 🤖
+
+print("🎯 CHALLENGE: What does the mystery_code decode to?")
+print("🏆 REWARD: Unlock exclusive developer insights!")
+```
+
+```ascii
+╔══════════════════════════════════════════════╗
+║             🎮 NEURAL MAZE GAME              ║
+║                                              ║
+║  Help the data packet reach the destination! ║
+║                                              ║
+║  █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █            ║
+║  █ . . . █ . . . . . . . █ . . █            ║
+║  █ . █ . █ . █ █ █ . █ . █ . █ █            ║
+║  █ S █ . . . █ . . . █ . . . █ █            ║
+║  █ . █ █ █ . █ . █ . █ . █ █ . █            ║
+║  █ . . . . . . . █ . . . █ . . █            ║
+║  █ █ █ . █ █ █ █ █ . █ █ █ . █ █            ║
+║  █ . . . . . . . . . . . . . E █            ║
+║  █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █            ║
+║                                              ║
+║  S = Start | E = End | . = Path | █ = Wall   ║
+╚══════════════════════════════════════════════╝
+```
+
 ## 🎯 **CURRENT OBJECTIVES**
 
 ```yaml
@@ -178,6 +264,8 @@ current_focus:
   - 🚀 Optimizing neural network architectures
   - 📱 Developing cross-platform solutions
   - 🎨 Creating immersive user experiences
+  - 🖼️ Mastering Tkinter GUI development
+  - 📊 Building interactive Streamlit dashboards
 
 collaboration_interests:
   - Open source projects
@@ -185,6 +273,7 @@ collaboration_interests:
   - Full-stack development
   - Creative coding
   - Tech innovation
+  - GUI application development
 ```
 
 ---
