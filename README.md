@@ -284,11 +284,7 @@ const collaboration = async () => {
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
 
-*💡 Pro tip: Try viewing this README in dark mode for the full cyberpunk experience!*
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **RaghavSethi006/RaghavSethi006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
