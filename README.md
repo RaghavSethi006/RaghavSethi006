@@ -26,11 +26,8 @@
 ### 🔗 **ESTABLISH NEURAL CONNECTION**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raghavsethi2409) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-sethi-a08501319) 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@Raghav_Sethi006) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-sethi-a08501319)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethi.raghav006@gmail.com)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=RaghavSethi006&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
