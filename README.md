@@ -1,15 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,12,20&amp;height=200&amp;section=header&amp;text=Raghav%20Sethi&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full%20Stack&amp;descSize=18&amp;descAlignY=58&amp;descColor=aacff5&amp;animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Raghav%20Sethi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Full%20Stack&descSize=18&descAlignY=58&descColor=aacff5&animation=fadeIn" width="100%"/>
 <div align="center">
-
-<a href="https://linkedin.com/in/raghav-sethi-a08501319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a>&nbsp;
-<a href="mailto:sethi.raghav006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>&nbsp;
-<a href="https://instagram.com/raghavsethi2409"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white"/></a>
-
+<a href="https://linkedin.com/in/raghav-sethi-a08501319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:sethi.raghav006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
+<a href="https://instagram.com/raghavsethi2409"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=4A9FE0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+things+that+actually+work.;AI+%C2%B7+Full+Stack+%C2%B7+Design.;Based+in+Calgary%2C+Alberta." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A9FE0&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;AI+%7C+Full+Stack+%7C+Design.;Based+in+Edmonton%2C+Alberta." alt="Typing SVG" />
 </div>
 
 ---
@@ -26,37 +21,37 @@ Currently working across ML architectures, scalable web apps, and the occasional
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,cpp,cs,c,rust&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,cpp,cs,c,rust&theme=dark" />
 &nbsp;
-<img src="https://img.shields.io/badge/RISC--V%20Assembly-283272?style=flat-square&amp;logo=riscv&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/RISC--V%20Assembly-283272?style=flat-square&logo=riscv&logoColor=white"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,bootstrap&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,bootstrap&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
 
 **Desktop**
 
-<img src="https://skillicons.dev/icons?i=tauri,electron&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=tauri,electron&theme=dark" />
 
 **AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" />
 &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&amp;logo=plotly&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" />
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,blender&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,blender&theme=dark" />
 
 ---
 
@@ -64,13 +59,13 @@ Currently working across ML architectures, scalable web apps, and the occasional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavSethi006&amp;theme=github_dark_dimmed&amp;hide_border=true&amp;include_all_commits=true&amp;show_icons=true&amp;icon_color=4A9FE0&amp;title_color=aacff5&amp;text_color=8B949E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RaghavSethi006&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&show_icons=true&icon_color=4A9FE0&title_color=aacff5&text_color=8B949E" height="165"/>
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=RaghavSethi006&amp;theme=github-dark-blue&amp;hide_border=true&amp;stroke=1E2430&amp;ring=4A9FE0&amp;fire=4A9FE0&amp;currStreakLabel=aacff5&amp;sideLabels=8B949E&amp;background=22272E" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RaghavSethi006&theme=github-dark-blue&hide_border=true&stroke=1E2430&ring=4A9FE0&fire=4A9FE0&currStreakLabel=aacff5&sideLabels=8B949E&background=22272E" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavSethi006&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;bg_color=22272E&amp;color=aacff5&amp;line=4A9FE0&amp;point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavSethi006&theme=github-compact&hide_border=true&area=true&bg_color=22272E&color=aacff5&line=4A9FE0&point=ffffff" width="95%"/>
 
 </div>
 
@@ -78,7 +73,7 @@ Currently working across ML architectures, scalable web apps, and the occasional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSethi006&amp;theme=github_dark_dimmed&amp;hide_border=true&amp;layout=compact&amp;title_color=aacff5&amp;text_color=8B949E" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSethi006&theme=github_dark_dimmed&hide_border=true&layout=compact&title_color=aacff5&text_color=8B949E" height="140"/>
 
 </div>
 
@@ -88,4 +83,4 @@ Currently working across ML architectures, scalable web apps, and the occasional
   <sub>Open to collaboration &nbsp;·&nbsp; <a href="mailto:sethi.raghav006@gmail.com">sethi.raghav006@gmail.com</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,12,20&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" width="100%"/>
