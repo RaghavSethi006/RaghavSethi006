@@ -59,21 +59,13 @@ Currently working across ML architectures, scalable web apps, and the occasional
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavSethi006&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&show_icons=true&icon_color=4A9FE0&title_color=aacff5&text_color=8B949E" height="165"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RaghavSethi006&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=RaghavSethi006&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=RaghavSethi006&theme=github-dark-blue&hide_border=true&stroke=1E2430&ring=4A9FE0&fire=4A9FE0&currStreakLabel=aacff5&sideLabels=8B949E&background=22272E" height="165"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RaghavSethi006&layout=donut&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RaghavSethi006&layout=donut&langs_count=5&theme=github_dark)
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavSethi006&theme=github-compact&hide_border=true&area=true&bg_color=22272E&color=aacff5&line=4A9FE0&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSethi006&theme=github_dark_dimmed&hide_border=true&layout=compact&title_color=aacff5&text_color=8B949E" height="140"/>
 
 </div>
 
