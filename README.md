@@ -1,78 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Raghav%20Sethi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Full%20Stack&descSize=18&descAlignY=58&descColor=aacff5&animation=fadeIn" width="100%"/>
-<div align="center">
-<a href="https://linkedin.com/in/raghav-sethi-a08501319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> 
-<a href="mailto:sethi.raghav006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
-<a href="https://instagram.com/raghavsethi2409"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A9FE0&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;AI+%7C+Full+Stack+%7C+Design.;Based+in+Edmonton%2C+Alberta." alt="Typing SVG" />
-</div>
-
----
-
-### About
-
-Software engineer focused on AI systems and full-stack development. I care about building things that are fast, clean, and actually useful — not just technically impressive on paper.
-
-Currently working across ML architectures, scalable web apps, and the occasional tool that makes someone stop and ask *"how did you build that?"*
-
----
-
-### Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,js,cpp,cs,c,rust&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/RISC--V%20Assembly-283272?style=flat-square&logo=riscv&logoColor=white"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,bootstrap&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
-
-**Desktop**
-
-<img src="https://skillicons.dev/icons?i=tauri,electron&theme=dark" />
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,blender&theme=dark" />
-
----
-
-### Stats
-
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RaghavSethi006&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=RaghavSethi006&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
-&nbsp;
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RaghavSethi006&layout=donut&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RaghavSethi006&layout=donut&langs_count=5&theme=github_dark)
+<img src="assets/hero.svg?v=1" alt="Raghav Sethi - Software Engineer specializing in AI and systems architecture. Cycling roles: AI Engineer, Systems Builder, Project Lead, CS Honours Student. Stats from the portfolio: PROJECTS 10, YEAR 2026, DEGREE CS·AI, STATUS BUILDING." width="830">
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavSethi006&theme=github-compact&hide_border=true&area=true&bg_color=22272E&color=aacff5&line=4A9FE0&point=ffffff" width="95%"/>
+**Engineering intelligent systems with structural integrity and precision.**
 
 </div>
 
----
-
 <div align="center">
-  <sub>Open to collaboration &nbsp;·&nbsp; <a href="mailto:sethi.raghav006@gmail.com">sethi.raghav006@gmail.com</a></sub>
+
+<img src="assets/about-life.svg?v=1" alt="Capabilities: RAG pipelines, agentic AI with tool calling, full-stack (React, Node.js, FastAPI), desktop apps (Tauri, Rust), local-first systems. Interests carousel: Chess, Puzzles, Card Magic; Horology, Iron Man, AI/ML, Philosophy; The Pocket." width="830">
+
+<img src="assets/stack.svg?v=1" alt="Skills HUD: 47 nodes in 7 systems on three orbits - daily drivers (inner), AI and data (middle), toolbox (outer)." width="830">
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" width="100%"/>
+## Projects
+
+| # | Project | Focus | Stack | Source |
+|:--|:--|:--|:--|:--|
+| 01 | **Jarvis** | Autonomous AI | — | — |
+| 02 | **Career Co-Pilot** | AI automation | — | — |
+| 03 | **TaskArena v2** | Local RAG desktop study companion | Tauri v2 · React · FastAPI · SciBERT · SQLite | — |
+| 04 | **FinOS** | Local-first OS | — | — |
+| 05 | **Open Photos** | Computer vision | — | — |
+| 06 | **Local Eco** | Decentralized P2P | — | — |
+| — | **UAIS AI-native desktop shell** | Project Lead | — | — |
+
+<div align="center">
+
+<img src="assets/id-dashboard.svg?v=1" alt="Lanyard ID card for Raghav Sethi: UAIS Project Lead, University of Alberta CS Honours, Najdorf career line (ECO B90). Portfolio metrics: 10 projects, 10 roles, 47 skill nodes, 7 systems." width="830">
+
+<img src="assets/connect.svg?v=1" alt="Let&#x27;s build something that matters. Precision in every exchange. Links to GitHub, LinkedIn, email and portfolio." width="830">
+
+[GitHub](https://github.com/RaghavSethi006) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/raghav-sethi-a08501319/) &nbsp;·&nbsp; [Email](mailto:sethi.raghav006@gmail.com) &nbsp;·&nbsp; [Portfolio](https://portfolio-raghavsethi006.vercel.app/) &nbsp;·&nbsp; [Resume](https://portfolio-raghavsethi006.vercel.app/assets/Raghav_Sethi_Resume.pdf)
+
+<sub><i>Systems think first.</i></sub>
+
+</div>
